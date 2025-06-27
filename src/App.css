@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.Blue{
+  color:blue;
+}
+.Blue:hover{
+  color: red;
+}
+.Gradient{
+  height: 200px;
+  width: 400px;
+  background-image: linear-gradient( red, blue, green);
+}
